@@ -1,7 +1,4 @@
 # Car-price-prediction-using-linear-and-lasso-regression
-Certainly! Here's a breakdown and brief explanation of the code provided for the car price prediction project using Linear Regression and Lasso Regression:
-
-### Step-by-Step Explanation
 
 #### 1. Import Libraries
 ```python
@@ -143,5 +140,3 @@ This code implements a car price prediction system using linear and lasso regres
 3. Splitting the data into training and testing sets.
 4. Training and evaluating both linear and lasso regression models.
 5. Visualizing the performance of the models by comparing actual vs. predicted prices.
-
-The evaluation is primarily done using the R-squared metric, which indicates how well the model explains the variability of the target variable. Visualization helps in understanding the model's performance visually.
